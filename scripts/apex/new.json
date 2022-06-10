@@ -1,0 +1,370 @@
+[
+    {
+        "attributes": {
+            "type": "Account",
+            "url": "/services/data/v54.0/sobjects/Account/0018c00002EwgNcAAJ"
+        },
+        "Id": "0018c00002EwgNcAAJ",
+        "Name": "University of Arizona",
+        "Type": "Customer - Direct"
+    },
+    {
+        "attributes": {
+            "type": "Account",
+            "url": "/services/data/v54.0/sobjects/Account/0018c00002EwgNfAAJ"
+        },
+        "Id": "0018c00002EwgNfAAJ",
+        "Name": "GenePoint",
+        "AnnualRevenue": 30000000,
+        "Type": "Customer - Channel"
+    },
+    {
+        "attributes": {
+            "type": "Account",
+            "url": "/services/data/v54.0/sobjects/Account/0018c00002EwgNdAAJ"
+        },
+        "Id": "0018c00002EwgNdAAJ",
+        "Name": "United Oil & Gas, UK",
+        "Type": "Customer - Direct"
+    },
+    {
+        "attributes": {
+            "type": "Account",
+            "url": "/services/data/v54.0/sobjects/Account/0018c00002EwgNaAAJ"
+        },
+        "Id": "0018c00002EwgNaAAJ",
+        "Name": "United Oil & Gas Corp.",
+        "AnnualRevenue": 5600000000,
+        "Type": "Customer - Direct"
+    },
+    {
+        "attributes": {
+            "type": "Account",
+            "url": "/services/data/v54.0/sobjects/Account/0018c00002EwgNgAAJ"
+        },
+        "Id": "0018c00002EwgNgAAJ",
+        "Name": "sForce"
+    }
+]
+
+[
+    {
+        "Id": "0018c00002EwgNaAAJ",
+        "Name": "United Oil & Gas Cor (2 more) ...",
+        "AnnualRevenue": 5600000000,
+        "Type": "Customer - Direct",
+        "Contacts": [
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0038c00002iK8URAA0",
+                "FirstName": "Stella",
+                "LastName": "Pavlova"
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0038c00002iK8USAA0",
+                "FirstName": "Lauren",
+                "LastName": "Boyle"
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0038c00002iK8UWAA0",
+                "FirstName": "Arthur",
+                "LastName": "Song"
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0038c00002iK8UbAAK",
+                "FirstName": "Avi",
+                "LastName": "Green"
+            }
+        ]
+    }
+]
+
+
+
+
+
+[
+    {
+        "attributes": {
+            "type": "Account",
+            "url": "/services/data/v54.0/sobjects/Account/0018c00002EwgNaAAJ"
+        },
+        "Id": "0018c00002EwgNaAAJ",
+        "Name": "United Oil & Gas Corp.",
+        "AnnualRevenue": 5600000000,
+        "Type": "Customer - Direct",
+        "Contacts": {
+            "totalSize": 4,
+            "done": true,
+            "records": [
+                {
+                    "attributes": {
+                        "type": "Contact",
+                        "url": "/services/data/v54.0/sobjects/Contact/0038c00002iK8URAA0"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0038c00002iK8URAA0",
+                    "FirstName": "Stella",
+                    "LastName": "Pavlova"
+                },
+                {
+                    "attributes": {
+                        "type": "Contact",
+                        "url": "/services/data/v54.0/sobjects/Contact/0038c00002iK8USAA0"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0038c00002iK8USAA0",
+                    "FirstName": "Lauren",
+                    "LastName": "Boyle"
+                },
+                {
+                    "attributes": {
+                        "type": "Contact",
+                        "url": "/services/data/v54.0/sobjects/Contact/0038c00002iK8UWAA0"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0038c00002iK8UWAA0",
+                    "FirstName": "Arthur",
+                    "LastName": "Song"
+                },
+                {
+                    "attributes": {
+                        "type": "Contact",
+                        "url": "/services/data/v54.0/sobjects/Contact/0038c00002iK8UbAAK"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0038c00002iK8UbAAK",
+                    "FirstName": "Avi",
+                    "LastName": "Green"
+                }
+            ]
+        }
+    }
+]
+
+
+[
+    {
+        "Id": "0018c00002EwgNaAAJ",
+        "Name": "United Oil & Gas Cor (2 more) ...",
+        "AnnualRevenue": 5600000000,
+        "Type": "Customer - Direct",
+        "Opportunities": [
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0068c00000pWTO4AAO",
+                "StageName": "Negotiation/Review",
+                "Amount": 125000.00
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0068c00000pWTO8AAO",
+                "StageName": "Proposal/Price Quote",
+                "Amount": 270000.00
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0068c00000pWTO9AAO",
+                "StageName": "Closed Won",
+                "Amount": 120000.00
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0068c00000pWTOHAA4",
+                "StageName": "Negotiation/Review",
+                "Amount": 270000.00
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0068c00000pWTOKAA4",
+                "StageName": "Closed Won",
+                "Amount": 270000.00
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0068c00000pWTOMAA4",
+                "StageName": "Closed Won",
+                "Amount": 915000.00
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0068c00000pWTORAA4",
+                "StageName": "Closed Won",
+                "Amount": 235000.00
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0068c00000pWTOSAA4",
+                "StageName": "Closed Won",
+                "Amount": 440000.00
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0068c00000pWTOUAA4",
+                "StageName": "Closed Won",
+                "Amount": 120000.00
+            },
+            {
+                "AccountId": "0018c00002EwgNaAAJ",
+                "Id": "0068c00000pWTOWAA4",
+                "StageName": "Needs Analysis",
+                "Amount": 675000.00
+            }
+        ]
+    }
+]|0x6e004d17
+07: 01: 26.213 (228104417)|STATEMENT_EXECUTE|[
+    4
+]
+07: 01: 26.213 (228156518)|SYSTEM_MODE_ENTER|false
+07: 01: 26.213 (228174228)|HEAP_ALLOCATE|[
+    4
+]|Bytes: 5
+07: 01: 26.213 (228250229)|HEAP_ALLOCATE|[
+    4
+]|Bytes: 24
+07: 01: 26.213 (228305832)|SYSTEM_METHOD_ENTRY|[
+    1
+]|JSON.JSON()
+07: 01: 26.213 (228311280)|STATEMENT_EXECUTE|[
+    1
+]
+07: 01: 26.213 (228333601)|SYSTEM_METHOD_EXIT|[
+    1
+]|JSON
+07: 01: 26.213 (228373993)|METHOD_ENTRY|[
+    4
+]||System.JSON.serialize(Object)
+07: 01: 26.213 (230888715)|METHOD_EXIT|[
+    4
+]||System.JSON.serialize(Object)
+07: 01: 26.213 (230916707)|SYSTEM_MODE_EXIT|false
+07: 01: 26.213 (230948334)|VARIABLE_ASSIGNMENT|[
+    4
+]|accountJSON3|"[{\"attributes\":{\"typ (2379 more) ..."
+07: 01: 26.213 (230955152)|STATEMENT_EXECUTE|[
+    5
+]
+07: 01: 26.213 (231014699)|USER_DEBUG|[
+    5
+]|DEBUG|[
+    {
+        "attributes": {
+            "type": "Account",
+            "url": "/services/data/v54.0/sobjects/Account/0018c00002EwgNaAAJ"
+        },
+        "Id": "0018c00002EwgNaAAJ",
+        "Name": "United Oil & Gas Corp.",
+        "AnnualRevenue": 5600000000,
+        "Type": "Customer - Direct",
+        "Opportunities": {
+            "totalSize": 10,
+            "done": true,
+            "records": [
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWTO4AAO"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0068c00000pWTO4AAO",
+                    "StageName": "Negotiation/Review",
+                    "Amount": 125000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWTO8AAO"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0068c00000pWTO8AAO",
+                    "StageName": "Proposal/Price Quote",
+                    "Amount": 270000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWTO9AAO"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0068c00000pWTO9AAO",
+                    "StageName": "Closed Won",
+                    "Amount": 120000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWTOHAA4"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0068c00000pWTOHAA4",
+                    "StageName": "Negotiation/Review",
+                    "Amount": 270000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWTOKAA4"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0068c00000pWTOKAA4",
+                    "StageName": "Closed Won",
+                    "Amount": 270000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWTOMAA4"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0068c00000pWTOMAA4",
+                    "StageName": "Closed Won",
+                    "Amount": 915000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWTORAA4"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0068c00000pWTORAA4",
+                    "StageName": "Closed Won",
+                    "Amount": 235000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWTOSAA4"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0068c00000pWTOSAA4",
+                    "StageName": "Closed Won",
+                    "Amount": 440000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWTOUAA4"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0068c00000pWTOUAA4",
+                    "StageName": "Closed Won",
+                    "Amount": 120000.00
+                },
+                {
+                    "attributes": {
+                        "type": "Opportunity",
+                        "url": "/services/data/v54.0/sobjects/Opportunity/0068c00000pWTOWAA4"
+                    },
+                    "AccountId": "0018c00002EwgNaAAJ",
+                    "Id": "0068c00000pWTOWAA4",
+                    "StageName": "Needs Analysis",
+                    "Amount": 675000.00
+                }
+            ]
+        }
+    }
+]
